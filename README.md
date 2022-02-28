@@ -21,3 +21,6 @@ breast_cancer_dataset_2.ipynb : The implementation using the Breast Cancer datas
 creditcard_details_dataset_3.ipynb : The implementation using Credit Card Fraud Detection dataset
 
 Please find the DS Report_Chandan_Das_2111429 for initial proposal of the project
+
+Note:
+ I have mistakenly created a Private repo unable to make it public https://github.com/chandan188/CE888-DS-Project1, so added a new repo.
